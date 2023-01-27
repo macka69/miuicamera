@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Zaostrené. Rozpoznaných %d tvárí</item>
+        <item quantity="one">Zaostrené. Rozpoznaná %d tvár</item>
+        <item quantity="few">Zaostrené. Rozpoznané %d tváre</item>
+        <item quantity="many">Zaostrené. Rozpoznanej %d tváre</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotografií z dávkového snímania</item>
+        <item quantity="one">%d fotografia z dávkového snímania</item>
+        <item quantity="few">%d fotografie z dávkového snímania</item>
+        <item quantity="many">%d fotografie z dávkového snímania</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d sekúnd</item>
+        <item quantity="one">Interval: %d sekunda</item>
+        <item quantity="few">Interval: %d sekundy</item>
+        <item quantity="many">Interval: %d sekundy</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Doba trvania: %d sekúnd</item>
+        <item quantity="one">Doba trvania: %d sekunda</item>
+        <item quantity="few">Doba trvania: %d sekundy</item>
+        <item quantity="many">Doba trvania: %d sekundy</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Môžete vytvoriť až %d klonov naraz.</item>
+        <item quantity="one">Môžete vytvoriť až %d klon naraz.</item>
+        <item quantity="few">Môžete vytvoriť až %d klony naraz.</item>
+        <item quantity="many">Môžete vytvoriť až %d klonu naraz.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="few">%1$d sek.</item>
+        <item quantity="many">%1$d sek.</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Vymazať %1$d konceptov?</item>
+        <item quantity="one">Vymazať %1$d koncept?</item>
+        <item quantity="few">Vymazať %1$d koncepty?</item>
+        <item quantity="many">Vymazať %1$d konceptov?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+        <item quantity="few">%1$s min.</item>
+        <item quantity="many">%1$s min.</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Nahrať %d sekúnd</item>
+        <item quantity="one">Nahrať %d sekundu</item>
+        <item quantity="few">Nahrať %d sekundy</item>
+        <item quantity="many">Nahrať %d sekundy</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+        <item quantity="one">Videá s funkciou zmrazenia môžete natáčať iba s %d objektom.</item>
+        <item quantity="few">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+        <item quantity="many">Videá s funkciou zmrazenia môžete natáčať iba s %d objektami.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotografií</item>
+        <item quantity="one">%1$s fotografia</item>
+        <item quantity="few">%1$s fotografie</item>
+        <item quantity="many">%1$s fotografie</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Dávkové fotografovanie dokončené, vytvorených %1$s záberov</item>
+        <item quantity="one">Dávkové fotografovanie dokončené, vytvorený %1$s záber</item>
+        <item quantity="few">Dávkové fotografovanie dokončené, vytvorené %1$s zábery</item>
+        <item quantity="many">Dávkové fotografovanie dokončené, vytvoreného %1$s záberu</item>
+    </plurals>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Zaostřeno. Rozpoznáno %d tváří</item>
+        <item quantity="one">Zaostřeno. Rozpoznána %d tvář</item>
+        <item quantity="few">Zaostřeno. Rozpoznány %d tváře</item>
+        <item quantity="many">Zaostřeno. Rozpoznáno %d tváře</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotografií dávkového snímání</item>
+        <item quantity="one">%d fotografie dávkového snímání</item>
+        <item quantity="few">%d fotografie dávkového snímání</item>
+        <item quantity="many">%d fotografie dávkového snímání</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d sekund</item>
+        <item quantity="one">Interval: %d sekunda</item>
+        <item quantity="few">Interval: %d sekundy</item>
+        <item quantity="many">Interval: %d sekundy</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Doba trvání: %d sekund</item>
+        <item quantity="one">Doba trvání: %d sekunda</item>
+        <item quantity="few">Doba trvání: %d sekundy</item>
+        <item quantity="many">Doba trvání: %d sekundy</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Najednou můžete vytvořit až %d klonů.</item>
+        <item quantity="one">Najednou můžete vytvořit až %d klon.</item>
+        <item quantity="few">Najednou můžete vytvořit až %d klony.</item>
+        <item quantity="many">Najednou můžete vytvořit až %d klonu.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+        <item quantity="few">%1$d s</item>
+        <item quantity="many">%1$d s</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Smazat %1$d konceptů?</item>
+        <item quantity="one">Smazat %1$d koncept?</item>
+        <item quantity="few">Smazat %1$d koncepty?</item>
+        <item quantity="many">Smazat %1$d konceptu?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+        <item quantity="few">%1$s min.</item>
+        <item quantity="many">%1$s min.</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Nahrát %d sekund</item>
+        <item quantity="one">Nahrát %d sekundu</item>
+        <item quantity="few">Nahrát %d sekundy</item>
+        <item quantity="many">Nahrát %d sekundy</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Videa se zmrazeným pozadím mohou obsahovat až %d subjektů.</item>
+        <item quantity="one">Videa se zmrazeným pozadím mohou obsahovat pouze %d subjekt.</item>
+        <item quantity="few">Videa se zmrazeným pozadím mohou obsahovat až %d subjekty.</item>
+        <item quantity="many">Videa se zmrazeným pozadím mohou obsahovat až %d subjektu.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s snímků</item>
+        <item quantity="one">%1$s snímek</item>
+        <item quantity="few">%1$s snímky</item>
+        <item quantity="many">%1$s snímku</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Dávkové snímání dokončeno, vytvořeno %1$s snímků</item>
+        <item quantity="one">Dávkové snímání dokončeno, vytvořen %1$s snímek</item>
+        <item quantity="few">Dávkové snímání dokončeno, vytvořeny %1$s snímky</item>
+        <item quantity="many">Dávkové snímání dokončeno, vytvořeno %1$s snímku</item>
+    </plurals>
+</resources>

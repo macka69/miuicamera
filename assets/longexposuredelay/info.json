@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "id": "video_d",
+      "uri": "assets://longexposuredelay/coverInfo.zip",
+      "duration":10000,
+      "version": "20190926-9"
+    }
+  ]
+}

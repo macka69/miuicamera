@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:background="@drawable/remote_online_circular_background" android:layout_width="@dimen/rol_sws_remote_camera_bg_width" android:layout_height="@dimen/rol_sws_remote_camera_bg_height" android:layout_marginTop="@dimen/rol_sws_remote_camera_logo_margin_top">
+        <ImageView android:layout_gravity="center" android:id="@id/rotate_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_remote_camera_bg" />
+        <ImageView android:layout_gravity="center" android:id="@id/rotate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_remote_camera_fg" />
+        <ImageView android:layout_gravity="center|right|top" android:id="@id/alter_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/remote_online_alert_icon" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/rol_sws_remote_camera_text_size" android:textColor="@color/setup_wizard_hint_text_color" android:layout_gravity="center" android:paddingLeft="@dimen/rol_sws_remote_camera_desc_padding_left_and_right" android:paddingRight="@dimen/rol_sws_remote_camera_desc_padding_left_and_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/rol_sws_remote_camera_text_margin_top" android:text="@string/remote_online_guide" />
+</LinearLayout>

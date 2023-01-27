@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/description_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/description_back_margin_top" android:src="@drawable/ic_description_back" android:contentDescription="@string/mimoji_back" android:layout_marginStart="@dimen/description_back_margin_start" />
+    <TextView android:textSize="@dimen/description_title_text_size" android:textColor="@color/white" android:id="@id/description_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/description_title_bottom_margin" android:fontFamily="sans-serif-light" android:layout_marginStart="@dimen/description_recycler_margin_start" android:layout_marginEnd="@dimen/description_recycler_margin_start" />
+    <miuix.recyclerview.widget.RecyclerView android:id="@id/description_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>

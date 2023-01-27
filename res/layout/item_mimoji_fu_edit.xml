@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="17.5dip" android:textStyle="bold" android:textColor="@color/white" android:gravity="start" android:id="@id/tv_mimoji_eidt_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" />
+    <miuix.recyclerview.widget.RecyclerView android:id="@id/rv_mimoji_eidt_color" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="@dimen/mimoji_level_color_icon_margin" android:layout_marginBottom="@dimen/mimoji_level_color_icon_margin" />
+    <miuix.recyclerview.widget.RecyclerView android:id="@id/rv_mimoji_eidt_thumbnail" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

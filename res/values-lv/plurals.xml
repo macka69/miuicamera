@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Nofokusēts. %d sejas atrastas</item>
+        <item quantity="zero">Nofokusēts. %d sejas atrastas</item>
+        <item quantity="one">Nofokusēts. %d seja atrasta</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d foto sērījveida uzņemšanā</item>
+        <item quantity="zero">%d foto sērījveida uzņemšanā</item>
+        <item quantity="one">%d foto sērījveida uzņemšanā</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Intervāls: %d sekundes</item>
+        <item quantity="zero">Intervāls: %d sekundes</item>
+        <item quantity="one">Intervāls: %d sekunde</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Ilgums: %d sekundes</item>
+        <item quantity="zero">Ilgums: %d sekundes</item>
+        <item quantity="one">Ilgums: %d sekunde</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Jūs varat izveidot līdz pat %d kloniem vienā reizē.</item>
+        <item quantity="zero">Jūs varat izveidot līdz pat %d kloniem vienā reizē.</item>
+        <item quantity="one">Jūs varat izveidot līdz pat %d klonam vienā reizē.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d minūtes</item>
+        <item quantity="zero">%1$d minūtes</item>
+        <item quantity="one">%1$d minūte</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="zero">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Dzēst %1$d melnrakstus?</item>
+        <item quantity="zero">Dzēst %1$d melnrakstus?</item>
+        <item quantity="one">Dzēst %1$d melnrakstu?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="zero">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Ierakstīt %d sekundes</item>
+        <item quantity="zero">Ierakstīt %d sekundes</item>
+        <item quantity="one">Ierakstīt %d sekundi</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Jūs varat uzņemt laika iesaldēšanas video ar %d objektiem.</item>
+        <item quantity="zero">Jūs varat uzņemt laika iesaldēšanas video ar %d objektiem.</item>
+        <item quantity="one">Jūs varat uzņemt laika iesaldēšanas video ar %d objektu.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s foto</item>
+        <item quantity="zero">%1$s foto</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Secīgu attēlu uzņemšana paveikta, uzņemti %1$s foto</item>
+        <item quantity="zero">Secīgu attēlu uzņemšana paveikta, uzņemti %1$s foto</item>
+        <item quantity="one">Secīgu attēlu uzņemšana paveikta, uzņemts %1$s foto</item>
+    </plurals>
+</resources>

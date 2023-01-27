@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">ଫୋକସ କରାଯାଇଛି । %dଟି ଚେହେରା ଚିହ୍ନିତ</item>
+        <item quantity="one">ଫୋକସ କରାଯାଇଛି । %d ଚେହେରା ଚିହ୍ନିତ</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">ଏକ ବର୍ଷ୍ଟ ସଟରେ %d ଫଟୋ</item>
+        <item quantity="one">ଏକ ବର୍ଷ୍ଟ ସଟରେ %d ଫଟୋ</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">ବ୍ୟବଧାନ: %d ସେକେଣ୍ଡ</item>
+        <item quantity="one">ବ୍ୟବଧାନ: %d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">ଅବଧି: %d ସେକେଣ୍ଡ</item>
+        <item quantity="one">ଅବଧି: %d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">ଆପଣ ଥରକେ %dଟି ପର୍ଯ୍ୟନ୍ତ କ୍ଲୋନ୍ ତିଆରି କରିପାରିବେ।</item>
+        <item quantity="one">ଆପଣ ଥରକେ %d ପର୍ଯ୍ୟନ୍ତ କ୍ଲୋନ୍ ତିଆରି କରିପାରିବେ ।</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d ମିନିଟ୍‌</item>
+        <item quantity="one">%1$d ମିନିଟ୍‌</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d ସେକେଣ୍ଡ</item>
+        <item quantity="one">%1$d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$d ଡ୍ରାଫ୍ଟ ଡିଲିଟ୍ କରିବେ?</item>
+        <item quantity="one">%1$d ଡ୍ରାଫ୍ଟ‌ ଡିଲିଟ୍ କରିବେ?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$sଟି ମିନିଟ</item>
+        <item quantity="one">%1$s ମିନିଟ</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">%d ସେକେଣ୍ଡ ରେକର୍ଡ କରନ୍ତୁ</item>
+        <item quantity="one">%d ସେକେଣ୍ଡ ରେକର୍ଡ କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">ଆପଣ %dଟି ସବଜେକ୍ଟ ପର୍ଯ୍ୟନ୍ତ ଟାଇମ୍ ଫ୍ରିଜ୍ ଭିଡିଓ ସୁଟ୍ କରିପାରିବେ।</item>
+        <item quantity="one">ଆପଣ କେବଳ %d ସବଜେକ୍ଟ ସହିତ ଟାଇମ୍ ଫ୍ରିଜ୍ ଭିଡିଓ ସୁଟ୍ କରିପାରିବେ।</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$sଟି ଫଟୋ</item>
+        <item quantity="one">%1$s ଫଟୋ</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">ବର୍ଷ୍ଟ ସଟ୍ ସମ୍ପୂର୍ଣ୍ଣ, %1$sଟି ଫଟୋ ନିଆଯାଇଛି</item>
+        <item quantity="one">ବର୍ଷ୍ଟ ସଟ୍ ସମ୍ପୂର୍ଣ୍ଣ, %1$sଟି ଫଟୋ ନିଆଯାଇଛି</item>
+    </plurals>
+</resources>

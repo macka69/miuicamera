@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/rol_ic_remote_camera_connection_alert_height" android:width="@dimen/rol_ic_remote_camera_connection_alert_width" android:viewportWidth="80.0" android:viewportHeight="80.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffff9e84" android:pathData="M40,40m-34,0a34,34 0,1 1,68 0a34,34 0,1 1,-68 0" android:strokeColor="#ff242424" android:strokeWidth="6.0" android:fillType="evenOdd" />
+    <path android:fillColor="#ffffffff" android:pathData="M42.5,49C43.0523,49 43.5,49.4477 43.5,50L43.5,55C43.5,55.5523 43.0523,56 42.5,56L37.5,56C36.9477,56 36.5,55.5523 36.5,55L36.5,50C36.5,49.4477 36.9477,49 37.5,49L42.5,49ZM42.5,24C43.0523,24 43.5,24.4477 43.5,25L43.5,43C43.5,43.5523 43.0523,44 42.5,44L37.5,44C36.9477,44 36.5,43.5523 36.5,43L36.5,25C36.5,24.4477 36.9477,24 37.5,24L42.5,24Z" android:fillType="evenOdd" />
+</vector>

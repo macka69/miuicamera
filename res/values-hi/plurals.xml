@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">फ़ोकस किया गया. %d चेहरे मिले</item>
+        <item quantity="one">फ़ोकस किया गया. %d चेहरा मिला</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">बर्स्ट शॉट में %d फ़ोटो</item>
+        <item quantity="one">बर्स्ट शॉट में %d फ़ोटो</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">अंतराल: %d सेकंड</item>
+        <item quantity="one">अंतराल: %d सेकंड</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">अवधि: %d सेकंड</item>
+        <item quantity="one">अवधि: %d सेकंड</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">आप एक बार में ज़्यादा से ज़्यादा %d क्लोन बना सकते हैं.</item>
+        <item quantity="one">आप एक बार में ज़्यादा से ज़्यादा %d क्लोन बना सकते हैं.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d मिनट</item>
+        <item quantity="one">%1$d मिनट</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d सेकंड</item>
+        <item quantity="one">%1$d सेकंड</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$d ड्राफ्ट हटाएं?</item>
+        <item quantity="one">%1$d ड्राफ्ट हटाएं?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s मिनट</item>
+        <item quantity="one">%1$s मिनट</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">%d सेकंड रिकॉर्ड करें</item>
+        <item quantity="one">%d सेकंड रिकॉर्ड करें</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">आप केवल %d विषयों के साथ समय फ्रीज़ वीडियो शूट कर सकते हैं.</item>
+        <item quantity="one">आप केवल %d विषय के साथ समय फ्रीज़ वीडियो शूट कर सकते हैं.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s फ़ोटो</item>
+        <item quantity="one">%1$s फ़ोटो</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">बर्स्ट शोट पूरा हुआ, %1$s फ़ोटो खींचें गए</item>
+        <item quantity="one">बर्स्ट शोट पूरा हुआ, %1$s फ़ोटो खींचें गए</item>
+    </plurals>
+</resources>

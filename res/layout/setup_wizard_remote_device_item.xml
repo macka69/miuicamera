@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="@dimen/rol_sws_remote_camera_bg_width" android:layout_height="@dimen/rol_sws_remote_camera_bg_height">
+        <ImageView android:layout_gravity="center" android:id="@id/remote_device_icon" android:background="@drawable/remote_device_item_background" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_remote_device_mi_phone" android:scaleType="centerInside" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/rol_sws_remote_device_item_desc_text_size" android:textColor="@color/setup_wizard_device_item_name_text_color" android:ellipsize="end" android:gravity="center" android:id="@id/remote_device_name" android:layout_width="fill_parent" android:layout_height="@dimen/rol_sws_remote_device_item_desc_height" android:singleLine="true" />
+    <TextView android:textSize="@dimen/rol_sws_remote_device_item_desc_text_size" android:textColor="#ffff3a3a" android:ellipsize="end" android:gravity="center" android:id="@id/remote_device_status" android:layout_width="fill_parent" android:layout_height="@dimen/rol_sws_remote_device_item_desc_height" android:singleLine="true" />
+</LinearLayout>

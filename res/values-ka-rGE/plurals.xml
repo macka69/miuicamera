@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">ფოკუსირებულია. %d სახეები გამოვლინდა</item>
+        <item quantity="one">ფოკუსირებულია. %d სახე გამოვლინდა</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d ფოტო სწრაფი გადაღებით</item>
+        <item quantity="one">%d ფოტო სწრაფი გადაღებით</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">ინტერვალი: %d წამი</item>
+        <item quantity="one">ინტერვალი: %d წამი</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">ხანგრძლივობა: %d წამი</item>
+        <item quantity="one">ხანგრძლივობა: %d წამი</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">ამ მომენტში თქვენ შეგიძლიათ შექმნა %d-მდე კლონის.</item>
+        <item quantity="one">ამ მომენტში თქვენ შეგიძლიათ შექმნა %d-მდე კლონის.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d წთ</item>
+        <item quantity="one">%1$d წთ</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d წმ</item>
+        <item quantity="one">%1$d წმ</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">წავშალო %1$d მონახაზი?</item>
+        <item quantity="one">წავშალო %1$d მონახაზი?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s წთ</item>
+        <item quantity="one">%1$s წთ</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">ჩაწერეთ %d წამი</item>
+        <item quantity="one">ჩაწერეთ %d წამი</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">თქვენ შეგიძლიათ გადაიღოთ გაყინული ვიდოები მხოლოდ %d საგანი.</item>
+        <item quantity="one">თქვენ შეგიძლიათ გადაიღოთ გაყინული ვიდოები მხოლოდ %d საგანი.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s ფოტო</item>
+        <item quantity="one">%1$s ფოტო</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">მოხდა სწრაფი გადაღება, გადაღებულია %1$s ფოტო</item>
+        <item quantity="one">მოხდა სწრაფი გადაღება, გადაღებულია %1$s ფოტო</item>
+    </plurals>
+</resources>

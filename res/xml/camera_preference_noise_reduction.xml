@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory app:allowDividerBelow="true" app:singleLineTitle="false">
+        <CheckBoxPreference android:persistent="false" android:title="@string/pref_i_n_r_b" android:key="pref_intelligent_noise_reduction_key" android:summary="@string/pref_s_n_r_s_c" android:defaultValue="false" />
+        <com.android.camera.preferences.EffectComparisonPreference android:persistent="false" android:layout="@layout/noise_reduction_effect_comparison" android:key="pref_open_effect_comparison_type" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/pref_camera_rec_type_3d_record" android:key="pref_ai_audio_3d" android:summary="@string/prek_b_j_o" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory />
+    <CheckBoxPreference android:persistent="true" android:title="@string/pref_k_h" android:key="pref_karaoke_key" android:summary="@string/pref_k_s_i" android:defaultValue="false" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/pref_e_p_k" android:key="pref_earphone_key" android:summary="@string/pref_e_p_s_n" android:defaultValue="true" />
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="start|center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/connection_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/video_cast_connection_indicator" />
+    <Space android:layout_width="@dimen/vic_dlg_connection_icon_text_margin" android:layout_height="fill_parent" />
+    <TextView android:textSize="@dimen/vic_dlg_connection_text_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/video_cast_connecting" />
+</LinearLayout>

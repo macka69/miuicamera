@@ -1,0 +1,34 @@
+{
+  "version": "2020.1229.1",
+  "data": [
+    {
+      "id": "close_state",
+      "uri": ""
+    },
+    {
+      "id": "cartoon_xiongmao",
+      "uri": "assets://mimoji/cartoon_xiongmao.zip"
+    },
+    {
+      "id": "cartoon_zhuzai",
+      "uri": "assets://mimoji/cartoon_zhuzai.zip"
+
+    },
+    {
+      "id": "cartoon_chaiquan",
+      "uri": "assets://mimoji/cartoon_chaiquan.zip"
+    },
+    {
+      "id": "cartoon_xiaoxiong",
+      "uri": "assets://mimoji/cartoon_xiaoxiong.zip"
+    },
+    {
+      "id": "cartoon_xiaomao",
+      "uri": "assets://mimoji/cartoon_xiaomao.zip"
+    },
+    {
+      "id": "cartoon_tuzi",
+      "uri": "assets://mimoji/cartoon_tuzi.zip"
+    }
+  ]
+}

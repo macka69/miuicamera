@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">បានសម្លឹងផ្តោត។ បានអង្កេត​ឃើញទម្រង់មុខ %d</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d រូបថតនៅក្នុងការថតរហ័សម្តង</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">ចន្លោះពេល: %d វិនាទី</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">រយៈពេល: %d វិនាទី</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">អ្នកអាចបង្កើតការក្លូនបាន %d ក្នុងពេលតែមួយ។</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d នាទី</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d វិនាទី</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">លុប %1$d សេចក្តីព្រាងនេះឬ?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s នាទី</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">ថត %d វិនាទី</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">អ្នកអាចថតវីដេអូបង្កកពេលវេលាបានរហូតដល់ %d កម្មវត្ថុ។</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">រូបថត %1$s សន្លឹក</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">ការថតរហ័សច្រើនផ្ទាំងបានរួចរាល់ បានថតរូប %1$s សន្លឹក</item>
+    </plurals>
+</resources>

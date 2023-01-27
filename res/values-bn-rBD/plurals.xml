@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">ফোকাস করা আছে।%d মুখ চেনা গিয়েছে</item>
+        <item quantity="one">ফোকাস করা আছে।%d মুখ চেনা গিয়েছে</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d টি ফটো বার্স্ট শটে</item>
+        <item quantity="one">%d টি ফটো বার্স্ট শটে</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">ইন্টারভাল: %d সেকেন্ড</item>
+        <item quantity="one">ইন্টারভাল: %d সেকেন্ড</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">সময়সীমা: %d সকেন্ড</item>
+        <item quantity="one">সময়সীমা: %d সকেন্ড</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">আপনি একই সময়ে %d টি ক্লোন তৈরি করতে পারবেন।</item>
+        <item quantity="one">আপনি একই সময়ে %d টি ক্লোন তৈরি করতে পারবেন।</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d মিনিট</item>
+        <item quantity="one">%1$d মিনিট</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d সেক</item>
+        <item quantity="one">%1$d সেক</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$dটি ড্রাফ্ট মুছে দেবেন?</item>
+        <item quantity="one">%1$dটি ড্রাফ্ট মুছে দেবেন?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s মিনিট</item>
+        <item quantity="one">%1$s মিনিট</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">%d সেকেন্ড ধরে রেকর্ড করুন</item>
+        <item quantity="one">%d সেকেন্ড ধরে রেকর্ড করুন</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">আপনি টাইম ফ্রিজ ভিডিও %d টি সাবজেক্ট দিয়ে শুট করতে পারেন</item>
+        <item quantity="one">আপনি টাইম ফ্রিজ ভিডিও %d টি সাবজেক্ট দিয়ে শুট করতে পারেন</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s টি ফটো</item>
+        <item quantity="one">%1$s টি ফটো</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">বাস্ট শট নেওয়া হয়েছে, %1$sটি ফটো তোলা হয়েছে</item>
+        <item quantity="one">বাস্ট শট নেওয়া হয়েছে, %1$sটি ফটো তোলা হয়েছে</item>
+    </plurals>
+</resources>

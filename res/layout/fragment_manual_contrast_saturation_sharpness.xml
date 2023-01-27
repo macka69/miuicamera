@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.camera.ui.PictureStyleView android:id="@id/manual_picture_style_adjust" android:layout_width="fill_parent" android:layout_height="@dimen/manual_picture_style_height" android:layout_marginStart="@dimen/manual_picture_style_margin_start" android:layout_marginEnd="@dimen/manual_picture_style_margin_start" />
+    <FrameLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center_horizontal" android:id="@id/picture_style__list" android:clickable="false" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+</LinearLayout>

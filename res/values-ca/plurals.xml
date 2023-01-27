@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Enfocat. %d cares detectada</item>
+        <item quantity="one">Enfocat. %d de cara detectada</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotos mitjançant ràfega</item>
+        <item quantity="one">%d foto mitjançant ràfega</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d segons</item>
+        <item quantity="one">Interval: %d segon</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Duració: %d segons</item>
+        <item quantity="one">Duració: %d segon</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Pots crear fins %d clons a la vegada.</item>
+        <item quantity="one">Pots crear fins %d clon a la vegada.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Voleu eliminar %1$d esborranys?</item>
+        <item quantity="one">Voleu eliminar %1$d esborrany?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Registra %d segons</item>
+        <item quantity="one">Registra %d segon</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Podeu enregistrar vídeos congelats només amb %d persones.</item>
+        <item quantity="one">Podeu enregistrar vídeos congelats només amb %d persona.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotos</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">"Ràfega de captures feta, s'han fet %1$s fotos"</item>
+        <item quantity="one">"Ràfega de captures feta, s'ha fet %1$s foto"</item>
+    </plurals>
+</resources>

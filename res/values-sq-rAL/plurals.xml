@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Fokusuar. %d fytyrë e zbuluar</item>
+        <item quantity="one">Fokusuar. %d fytyrë e zbuluar</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotografi në një goditje plas</item>
+        <item quantity="one">%d foto në një e shtënë</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Intervali: %d sekonda</item>
+        <item quantity="one">Intervali: %d sekond</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Kohëzgjatja: %d sekonda</item>
+        <item quantity="one">Kohëzgjatja: %d sekond</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">You can create up to %d klone në një kohë.</item>
+        <item quantity="one">Ju mund të krijoni deri në %d klon në një kohë.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sekonda</item>
+        <item quantity="one">%1$d sek</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Të fshihet %1$ddraftet?</item>
+        <item quantity="one">Të fshihet %1$d drafti?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Rekord %d sekonda</item>
+        <item quantity="one">Rekord %d sekond</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Mund të xhironi video me ngrirje kohe deri në %d teme.</item>
+        <item quantity="one">Mund të xhironi video të ngrirjes së kohës vetëm me %d teme.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotot</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Shkrepja e vazhdueshme u bë, %1$s fotografitç u bërën</item>
+        <item quantity="one">Shkrepja e vazhdueshme u bë, %1$s fotografi është bërë</item>
+    </plurals>
+</resources>

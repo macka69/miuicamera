@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/screen_list" android:visibility="invisible" layout="@layout/setup_wizard_screen_list" />
+    <include android:id="@id/screen_scan" android:visibility="invisible" layout="@layout/setup_wizard_screen_scan" />
+    <include android:id="@id/screen_home" android:visibility="invisible" layout="@layout/setup_wizard_screen_home" />
+</FrameLayout>

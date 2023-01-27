@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Sufokusuota. Aptikta %d veidų</item>
+        <item quantity="one">Sufokusuota. Aptiktas %d veidas</item>
+        <item quantity="few">Sufokusuota. Aptikti %d veidai</item>
+        <item quantity="many">Sufokusuota. Aptikta %d veidų</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d serijinių fotografijų</item>
+        <item quantity="one">%d serijinė fotografija</item>
+        <item quantity="few">%d serijinės fotografijos</item>
+        <item quantity="many">%d serijinės fotografijos</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Intervalas: %d sekundžių</item>
+        <item quantity="one">Intervalas: %d sekundė</item>
+        <item quantity="few">Intervalas: %d sekundės</item>
+        <item quantity="many">Intervalas: %d sekundės</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Trukmė: %d sekundžių</item>
+        <item quantity="one">Trukmė: %d sekundė</item>
+        <item quantity="few">Trukmė: %d sekundės</item>
+        <item quantity="many">Trukmė: %d sekundės</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Vienu metu galite sukurti iki %d klonų.</item>
+        <item quantity="one">Vienu metu galite sukurti %d kloną.</item>
+        <item quantity="few">Vienu metu galite sukurti iki %d klonų.</item>
+        <item quantity="many">Vienu metu galite sukurti iki %d klonų.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+        <item quantity="few">%1$d min.</item>
+        <item quantity="many">%1$d min.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+        <item quantity="few">%1$d sek.</item>
+        <item quantity="many">%1$d sek.</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Trinti %1$d juodraščių?</item>
+        <item quantity="one">Trinti %1$d juodraštį?</item>
+        <item quantity="few">Trinti %1$d juodraščius?</item>
+        <item quantity="many">Trinti %1$d juodraščius?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+        <item quantity="few">%1$s min.</item>
+        <item quantity="many">%1$s min.</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Įrašyti %d sekundžių</item>
+        <item quantity="one">Įrašyti %d sekundę</item>
+        <item quantity="few">Įrašyti %d sekundes</item>
+        <item quantity="many">Įrašyti %d sekundes</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektų.</item>
+        <item quantity="one">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektu.</item>
+        <item quantity="few">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektais.</item>
+        <item quantity="many">Laiko sustabdymo vaizdo įrašai gali būti filmuojami tik su %d subjektais.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s nuotraukų</item>
+        <item quantity="one">%1$s nuotrauka</item>
+        <item quantity="few">%1$s nuotraukos</item>
+        <item quantity="many">%1$s nuotraukos</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Serijinis fotografavimas atliktas, įamžinta %1$s kadrų</item>
+        <item quantity="one">Serijinis fotografavimas atliktas, įamžintas %1$s kadras</item>
+        <item quantity="few">Serijinis fotografavimas atliktas, įamžinti %1$s kadrai</item>
+        <item quantity="many">Serijinis fotografavimas atliktas, įamžinta %1$s kadro</item>
+    </plurals>
+</resources>

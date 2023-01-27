@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">फोकस केला. %d चेहरे ओळखले</item>
+        <item quantity="one">फोकस केला. %d चेहरा ओळखला</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">बर्स्ट शॉटमध्ये %d फोटोज</item>
+        <item quantity="one">बर्स्ट शॉटमध्ये %d फोटो</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">मध्यंतर: %d सेकंद</item>
+        <item quantity="one">मध्यंतर: %d सेकंद</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">कालावधी: %d सेकंद</item>
+        <item quantity="one">कालावधी: %d सेकंद</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">तुम्ही एकावेळी %d पर्यंत क्लोन्स तयार करु शकता.</item>
+        <item quantity="one">तुम्ही एकावेळी %d पर्यंत क्लोन तयार करु शकता.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d मिनिटे</item>
+        <item quantity="one">%1$d मिनिट</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d से</item>
+        <item quantity="one">%1$d से</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$d ड्राफ्टस डिलीट करायचे?</item>
+        <item quantity="one">%1$d ड्राफ्ट डिलीट करायचा?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s मिनिटे</item>
+        <item quantity="one">%1$s मिनिट</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">रेकॉर्ड करा %d सेकंद</item>
+        <item quantity="one">रेकॉर्ड करा %d सेकंद</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">आपण केवळ %d विषयांसह टाइम फ्रीझ व्हिडिओ शूट करू शकता.</item>
+        <item quantity="one">आपण केवळ %d विषयांसह टाइम फ्रीझ व्हिडिओ शूट करू शकता.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s फोटोज</item>
+        <item quantity="one">%1$s फोटो</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">बर्स्ट शॉट घेतला, %1$s फोटो घेतला</item>
+        <item quantity="one">बर्स्ट शॉट घेतला, %1$s फोटो घेतला</item>
+    </plurals>
+</resources>

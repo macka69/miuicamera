@@ -1,0 +1,43 @@
+{
+  "version": "2020.1230.1",
+  "material_version": "2020.1230.1",
+  "material_size": "156",
+  "data": [
+    {
+      "id": "close_state",
+      "downloadState": true,
+      "placeholder": "",
+      "uri": ""
+    },
+    {
+      "id": "add_state",
+      "downloadState": true,
+      "placeholder": "",
+      "uri": ""
+    },
+    {
+      "id": "human_x1",
+      "downloadState": true,
+      "placeholder": "",
+      "uri": "assets://mimoji/human_x1.zip"
+    },
+    {
+      "id": "human_x2",
+      "downloadState": true,
+      "placeholder": "",
+      "uri": "assets://mimoji/human_x2.zip"
+    },
+    {
+      "id": "human_x3",
+      "downloadState": true,
+      "placeholder": "",
+      "uri": "assets://mimoji/human_x3.zip"
+    },
+    {
+      "id": "human_x4",
+      "downloadState": true,
+      "placeholder": "",
+      "uri": "assets://mimoji/human_x4.zip"
+    }
+  ]
+}

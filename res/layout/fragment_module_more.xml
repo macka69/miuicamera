@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/modes_root" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/more_mode_header" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/more_mode_edit" android:background="@drawable/ic_more_mode_edit_shadow" android:layout_width="@dimen/more_mode_tab_header_icon_size" android:layout_height="@dimen/more_mode_tab_header_icon_size" android:src="@drawable/ic_more_mode_edit" android:contentDescription="@string/pref_customization_title" android:layout_marginEnd="@dimen/more_mode_tab_header_icon_margin_end" android:layout_alignParentEnd="true" />
+        <ImageView android:id="@id/more_tab_switch" android:layout_width="@dimen/more_mode_tab_header_icon_size" android:layout_height="@dimen/more_mode_tab_header_icon_size" android:contentDescription="@string/pref_customization_style" android:layout_marginEnd="@dimen/more_mode_tab_header_icon_gap" android:layout_toStartOf="@id/more_mode_edit" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/modes_contain" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <miuix.springback.view.SpringBackLayout android:layout_width="fill_parent" android:layout_height="wrap_content" app:scrollableView="@id/modes_content">
+            <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center_horizontal" android:id="@id/modes_content" android:clipChildren="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </miuix.springback.view.SpringBackLayout>
+        <FrameLayout android:id="@id/new_mode_root" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <miuix.springback.view.SpringBackLayout android:layout_gravity="center_horizontal" android:id="@id/spring_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" app:scrollableView="@id/modes_content_new">
+                <androidx.recyclerview.widget.RecyclerView android:layout_gravity="center_horizontal" android:id="@id/modes_content_new" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/mode_item_margin_half" />
+            </miuix.springback.view.SpringBackLayout>
+            <FrameLayout android:layout_gravity="end" android:id="@id/more_mode_scrollbar_track" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="@dimen/mode_item_margin_header" android:layout_marginBottom="@dimen/mode_item_margin_new" android:layout_marginEnd="@dimen/more_mode_scrollbar_margin_end">
+                <View android:id="@id/more_mode_scrollbar" android:background="@color/new_more_mode_scroll_bar_bg" android:layout_width="@dimen/more_mode_scrollbar_width" android:layout_height="@dimen/more_mode_scrollbar_height" />
+            </FrameLayout>
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>

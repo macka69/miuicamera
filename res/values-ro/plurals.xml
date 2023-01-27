@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Focalizat. %d fețe detectate</item>
+        <item quantity="one">Focalizat. %d față detectată</item>
+        <item quantity="few">Focalizat. %d fețe detectate</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotografii în rafale</item>
+        <item quantity="one">%d fotografie în rafale</item>
+        <item quantity="few">%d fotografii în rafale</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d secundă</item>
+        <item quantity="one">Interval: %d secundă</item>
+        <item quantity="few">Interval: %d secunde</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Durată: %d secunde</item>
+        <item quantity="one">Durată: %d secundă</item>
+        <item quantity="few">Durată: %d secunde</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Puteți crea până la %d clone simultan.</item>
+        <item quantity="one">Puteți crea până la %d clonă simultan.</item>
+        <item quantity="few">Puteți crea până la %d clone simultan.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sec</item>
+        <item quantity="one">%1$d sec</item>
+        <item quantity="few">%1$d sec</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Ștergeți %1$d schițe?</item>
+        <item quantity="one">Ștergeți %1$d schiță?</item>
+        <item quantity="few">Ștergeți %1$d schițe?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+        <item quantity="few">%1$s min</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Înregistrați %d secunde</item>
+        <item quantity="one">Înregistrați %d secundă</item>
+        <item quantity="few">Înregistrați %d secunde</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiecte.</item>
+        <item quantity="one">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiect.</item>
+        <item quantity="few">Puteți înregistra videoclipuri cu înghețarea timpului doar cu %d subiecte.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotografii</item>
+        <item quantity="one">%1$s fotografie</item>
+        <item quantity="few">%1$s fotografii</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Captură în rafale gata, %1$s fotografii făcute</item>
+        <item quantity="one">Captură în rafale gata, %1$s fotografie făcută</item>
+        <item quantity="few">Captură în rafale gata, %1$s fotografii făcute</item>
+    </plurals>
+</resources>

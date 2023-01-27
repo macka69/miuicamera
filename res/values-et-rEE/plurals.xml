@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Fokuseeritud. %d nägu tuvastatud</item>
+        <item quantity="one">Fokuseeritud. %d nägu tuvastatud</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotot sarivõttes</item>
+        <item quantity="one">%d foto sarivõttes</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Intervall: %d sekundit</item>
+        <item quantity="one">Intervall: %d sekund</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Kestvus: %d sekundit</item>
+        <item quantity="one">Kestvus: %d sekund</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Korraga saad luua kuni %d klooni.</item>
+        <item quantity="one">Korraga saad luua kuni %d klooni.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Kustuta %1$d visandit?</item>
+        <item quantity="one">Kustuta %1$d visand?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Lindista %d sekundit</item>
+        <item quantity="one">Lindista %d sekund</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Ajakülmutusega videoid saad salvestada ainult %d objektiga.</item>
+        <item quantity="one">Ajakülmutusega videoid saad salvestada ainult %d objektiga.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotot</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Kiirtõmmis on valmis, tehtud %1$s fotot</item>
+        <item quantity="one">Kiirtõmmis on valmis, tehtud %1$s foto</item>
+    </plurals>
+</resources>

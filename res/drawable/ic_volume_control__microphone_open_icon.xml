@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/volume_control__microphone_open_icon_size" android:width="@dimen/volume_control__microphone_open_icon_size" android:viewportWidth="74.0" android:viewportHeight="74.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffff0000" android:pathData="M74,0L74,74L5,74C2.2386,74 0,71.7614 0,69L0,5C0,2.2386 2.2386,0 5,0L74,0L74,0Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillAlpha="0.0" android:fillType="evenOdd" />
+    <path android:fillColor="#ffa0a0a0" android:pathData="M25.5,35.7006L25.5,39.2C25.5,45.5513 30.6487,50.7 37,50.7C43.2536,50.7 48.3413,45.7085 48.4964,39.4923L48.5,39.2L48.5,35.7006L53.5,35.7006L53.5,39.2C53.5,48.3127 46.1127,55.7 37,55.7C27.8873,55.7 20.5,48.3127 20.5,39.2L20.5,35.7006L25.5,35.7006ZM37,22.2C41.4183,22.2 45,25.7817 45,30.2L45,39.2C45,43.6183 41.4183,47.2 37,47.2C32.5817,47.2 29,43.6183 29,39.2L29,30.2C29,25.7817 32.5817,22.2 37,22.2Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+</vector>

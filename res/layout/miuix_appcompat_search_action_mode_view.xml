@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<miuix.appcompat.internal.app.widget.SearchActionModeView android:id="@id/search_panel" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_appcompat_action_bar_default_height" style="@style/Widget.SearchActionMode.Input"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/miuix_appcompat_search_action_mode_cancel_text_size" android:textColor="?textColorSearchBarCancel" android:gravity="center" android:id="@id/search_text_cancel" android:background="@null" android:layout_width="@dimen/miuix_appcompat_search_action_mode_cancel_width" android:layout_height="fill_parent" android:text="@string/miuix_appcompat_search_action_mode_cancel" android:textDirection="locale" android:layout_alignParentEnd="true" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/search_container" android:background="?miuixAppcompatSearchModeEditTextBackground" android:layout_width="fill_parent" android:layout_height="@dimen/miuix_appcompat_searchbar_bg_height">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="?miuixAppcompatEditTextSearchIcon" />
+            <miuix.androidbasewidget.widget.ClearableEditText android:id="@android:id/input" android:background="@null" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:textDirection="locale" />
+        </LinearLayout>
+    </RelativeLayout>
+</miuix.appcompat.internal.app.widget.SearchActionModeView>

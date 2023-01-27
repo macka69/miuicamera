@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.camera.ui.SmoothRoundLayout android:id="@id/mode_item_new" android:layout_width="@dimen/mode_icon_size_new" android:layout_height="@dimen/mode_icon_size_new" app:smoothRadius="@dimen/mode_item_radius_new" app:strokeColor="@color/mode_icon_bg_stroke_new" app:strokeWidth="1.0px"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_gravity="center" android:id="@id/mode_fg" android:clipChildren="false" android:layout_width="200.0dip" android:layout_height="200.0dip">
+        <com.android.camera.ui.InnerSpringImageView android:layout_gravity="center" android:id="@id/mode_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/mode_icon_vlog" android:scaleType="center" />
+        <FrameLayout android:layout_gravity="center" android:layout_width="@dimen/mode_icon_size_new" android:layout_height="@dimen/mode_icon_size_new">
+            <com.android.camera.ui.AdaptiveTextView android:textSize="@dimen/mode_name_size_new" android:textColor="@color/mode_name_color" android:ellipsize="marquee" android:gravity="start" android:id="@id/mode_name" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/mode_name_size_new_margin_top" android:text="VLOG" android:singleLine="true" android:marqueeRepeatLimit="marquee_forever" android:importantForAccessibility="no" android:fontFamily="mipro-medium" android:layout_marginStart="@dimen/mode_name_size_new_margin_start" android:layout_marginEnd="@dimen/mode_name_size_new_margin_start" />
+        </FrameLayout>
+    </FrameLayout>
+</com.android.camera.ui.SmoothRoundLayout>

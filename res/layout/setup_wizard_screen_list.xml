@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <miuix.recyclerview.widget.RecyclerView android:id="@id/remote_device_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/rol_sws_remote_device_list_margin" android:layout_marginBottom="@dimen/rol_sws_remote_device_list_margin" />
+</LinearLayout>

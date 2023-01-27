@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/pref_smart_guide_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:camera="http://schemas.android.com/apk/res-auto">
+    <CheckBoxPreference android:persistent="false" android:title="@string/settings_camera_near_range_title" android:key="pref_camera_near_range_key" android:summary="@string/settings_camera_near_range_description" android:defaultValue="@bool/pref_camera_near_range_default" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/pref_camera_tip_id_card" android:key="pref_camera_ai_detect_id_card" android:summary="@string/settings_camera_detect_card_description" android:defaultValue="@bool/pref_camera_smart_tip_default" />
+    <CheckBoxPreference android:persistent="false" android:title="@string/pref_camera_tip_doc" android:key="pref_camera_ai_detect_doc" android:summary="@string/settings_camera_detect_description_doc" android:defaultValue="@bool/pref_camera_smart_tip_default" />
+    <com.android.camera.preferences.QRCodePreference android:persistent="false" android:title="@string/pref_scan_qrcode_title" android:key="pref_scan_qrcode_key" android:summary="@string/pref_scan_qrcode_summary" android:defaultValue="@string/pref_scan_qrcode_default" />
+</PreferenceScreen>

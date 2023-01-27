@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Encofcado. Detectáronse %d facianas</item>
+        <item quantity="one">Encofcado. Detectouse %d faciana</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotos en refacho</item>
+        <item quantity="one">%d foto en refacho</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Intervalo: %d segundos</item>
+        <item quantity="one">Intervalo: %d segundo</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Duración: %d segundos</item>
+        <item quantity="one">Duración: %d segundo</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Podes crear ata %d clons dunha vez.</item>
+        <item quantity="one">Podes crear ata %d clon dunha vez.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d segs</item>
+        <item quantity="one">%1$d seg</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Eliminar %1$d borradores?</item>
+        <item quantity="one">Eliminar %1$d borrador?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s mins</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Gravar %d segundos</item>
+        <item quantity="one">Gravar %d segundo</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Só podes gravar vídeos con tempo conxelado con até %d suxeitos.</item>
+        <item quantity="one">Só podes gravar vídeos con tempo conxelado con %d suxeito.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotos</item>
+        <item quantity="one">%1$s foto</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Disparo en refacho feito, %1$s fotos tiradas</item>
+        <item quantity="one">Disparo en refacho feito, %1$s foto tirada</item>
+    </plurals>
+</resources>

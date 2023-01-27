@@ -1,0 +1,44 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: MiuiCamera.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- mp4
+- assets/1.44.3/snpe_model.json
+- assets/1.45_7350/snpe_model.json
+- assets/1.45_8350/snpe_model.json
+- assets/authpack/authpack.bin
+- assets/default/snpe_model.json
+- assets/dollyzoom/coverInfo.zip
+- webp
+- png
+- assets/live/mi_music_cn.zip
+- assets/live/mi_music_global.zip
+- assets/longexposuredelay/coverInfo.zip
+- assets/paralleldream/coverInfo.zip
+- assets/slowshutter/coverInfo.zip
+- ogg
+- assets/timestop/coverInfo.zip
+- jpg
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '30'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  MODULE_LICENSE_BSD: '0'
+  NOTICE: '8'
+  com/xiaomi/asr/engine/META-INF/MANIFEST.MF: '0'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.7.0
+versionInfo:
+  versionCode: '450005300'
+  versionName: 4.5.000530.0

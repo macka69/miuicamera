@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "id": "video_a",
+      "uri": "assets://dollyzoom/coverInfo.zip",
+      "duration":10000,
+      "version": "20190926-9"
+    }
+  ]
+}

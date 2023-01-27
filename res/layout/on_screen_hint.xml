@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/on_screen_rotation_hint" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/ai_scene_hint_text_size" android:textColor="#ffffffff" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/on_screen_tips" android:background="@drawable/toast_top_recommend_tip_bg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="@dimen/ai_scene_hint_padding_start" android:paddingEnd="@dimen/ai_scene_hint_padding_end" />
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/on_screen_hint" android:background="@drawable/on_screen_hint_frame" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textAppearance="@style/OnScreenHintTextAppearance.Small" android:textColor="#ffffffff" android:id="@id/message" android:layout_width="0.0dip" android:layout_height="wrap_content" android:shadowColor="#bb000000" android:shadowRadius="2.75" android:layout_weight="1.0" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/vic_dlg_connection_icon_height" android:width="@dimen/vic_dlg_connection_icon_width" android:viewportWidth="68.0" android:viewportHeight="68.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffffff" android:pathData="M33.5853,64C18.7205,64 6.3807,53.1888 4.0002,39.0004L10.1069,39.0001C12.4073,49.855 22.0451,58 33.5853,58C45.1255,58 54.7633,49.855 57.0637,39.0001L63.1705,39.0004C60.7899,53.1888 48.4502,64 33.5853,64ZM33.5853,4C48.4505,4 60.7905,14.8117 63.1706,29.0006L57.0639,29.0009C54.7639,18.1455 45.1259,10 33.5853,10C22.0448,10 12.4067,18.1455 10.1067,29.0009L4,29.0006C6.3801,14.8117 18.7201,4 33.5853,4Z" />
+</vector>

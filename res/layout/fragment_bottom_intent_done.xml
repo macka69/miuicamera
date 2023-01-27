@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="bottom" android:id="@id/intent_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="start|center" android:id="@id/intent_done_retry" android:background="@drawable/bg_thumbnail_background_full" android:layout_width="@dimen/bottom_picker_width" android:layout_height="@dimen/bottom_picker_width" android:src="@drawable/ic_vector_close_fill" android:scaleType="center" android:contentDescription="@string/mimoji_recapture" android:layout_marginStart="@dimen/bottom_picker_margin" />
+        <FrameLayout android:layout_width="@dimen/bottom_snap_width" android:layout_height="@dimen/bottom_snap_width" />
+        <ImageView android:layout_gravity="end|center" android:id="@id/done_button" android:background="@drawable/bg_thumbnail_background_full" android:layout_width="@dimen/bottom_picker_width" android:layout_height="@dimen/bottom_picker_width" android:src="@drawable/ic_live_record_save" android:scaleType="center" android:contentDescription="@string/accessibility_intent_done_apply" android:layout_marginEnd="@dimen/bottom_picker_margin" />
+    </FrameLayout>
+</FrameLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">ໂຟກັສແລ້ວ. ກວດພົບ %d ໃບໜ້າ</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d ພາບໃນຮູບຖ່າຍແບບຕໍ່ເນື່ອງ</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">ຊ່ວງເວລາ: %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">ຊ່ວງເວລາ: %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">ທ່ານສາມາດສ້າງໄດ້ສູງສຸດ %d ໂຄລນໃນໜຶ່ງຄັ້ງ.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d ນາທີ</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d ວິ</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">ລົບ %1$d ​ໂຄງຮ່າງບໍ?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s ນາທີ</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">ບັນທຶກ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">ທ່ານສາມາດຖ່າຍວິດີໂອແຊ່ແຂງເວລາໄດ້ສູງສຸດ %d ວັດຖຸ.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s ຮູບພາບ</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">ການຖ່າຍຮູບຕໍ່ເນື່ອງສຳເລັດແລ້ວ, ຖ່າຍແລ້ວ %1$s ຮູບ</item>
+    </plurals>
+</resources>

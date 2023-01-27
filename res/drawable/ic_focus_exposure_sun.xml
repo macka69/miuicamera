@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@drawable/$ic_focus_exposure_sun__10"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <target android:name="_R_G_L_8_G_T_1" android:animation="@drawable/$ic_focus_exposure_sun__0" />
+    <target android:name="_R_G_L_7_G_T_1" android:animation="@drawable/$ic_focus_exposure_sun__1" />
+    <target android:name="_R_G_L_6_G_T_1" android:animation="@drawable/$ic_focus_exposure_sun__2" />
+    <target android:name="_R_G_L_5_G_T_1" android:animation="@drawable/$ic_focus_exposure_sun__3" />
+    <target android:name="_R_G_L_4_G_T_1" android:animation="@drawable/$ic_focus_exposure_sun__4" />
+    <target android:name="_R_G_L_3_G_T_1" android:animation="@drawable/$ic_focus_exposure_sun__5" />
+    <target android:name="_R_G_L_2_G_T_1" android:animation="@drawable/$ic_focus_exposure_sun__6" />
+    <target android:name="_R_G_L_1_G_T_1" android:animation="@drawable/$ic_focus_exposure_sun__7" />
+    <target android:name="_R_G_L_0_G" android:animation="@drawable/$ic_focus_exposure_sun__8" />
+    <target android:name="time_group" android:animation="@drawable/$ic_focus_exposure_sun__9" />
+</animated-vector>

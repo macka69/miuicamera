@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">포커스됨, %d개의 얼굴 감지됨</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">연속 촬영 %d장</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">간격: %d초</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">기간: %d초</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">한 번에 최대 %d개의 클론 생성 가능</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d분</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d초</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$d개 작성 중인 글을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s분</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">%d초 녹화</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">최대 %d개의 대상 타임 프리즈 동영상 촬영 가능</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s개 사진</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">연속 촬영 완료, %1$s장의 사진 촬영됨</item>
+    </plurals>
+</resources>

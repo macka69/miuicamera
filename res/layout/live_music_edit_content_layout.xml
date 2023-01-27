@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/live_music_edit_content" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/frame_panel" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="@dimen/audio_frame_panel_height" android:layoutDirection="ltr">
+        <ImageView android:id="@id/left_frame_mask" android:background="@drawable/bg_music_frame_mask_rotate" android:layout_width="@dimen/live_music_edit_padding" android:layout_height="fill_parent" android:layout_alignParentStart="true" />
+        <ImageView android:id="@id/right_frame_mask" android:background="@drawable/bg_music_frame_mask_rotate" android:layout_width="@dimen/live_music_edit_padding" android:layout_height="fill_parent" android:layout_alignParentEnd="true" />
+        <View android:id="@id/bg_frame_mask" android:background="@drawable/bg_music_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_marginStart="@dimen/live_music_edit_padding" android:layout_marginEnd="@dimen/live_music_edit_padding" />
+        <miuix.recyclerview.widget.RecyclerView android:id="@id/live_recycler_view" android:paddingTop="@dimen/music_frame_panel_recycler_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <FrameLayout android:paddingTop="@dimen/live_music_cut_bottom_btn_top_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/live_music_edit_padding">
+        <ImageView android:layout_gravity="start" android:id="@id/music_cut_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/editor_cancel_action_button_selector" android:contentDescription="取消" />
+        <ImageView android:layout_gravity="center" android:id="@id/iv_music_play" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/music_selector_play_btn" />
+        <ImageView android:layout_gravity="end" android:id="@id/music_cut_save" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/editor_done_action_button_selector" android:contentDescription="保存" />
+    </FrameLayout>
+</LinearLayout>

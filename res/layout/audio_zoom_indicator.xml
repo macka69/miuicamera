@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:id="@id/audio_zoom_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/audio_zoom_horn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/ai_audio_new_audio_zoom_indicator_marginright" android:src="@drawable/ic_vector_config_ai_audio_new_horn" />
+    <com.android.camera.ui.AudioZoomIndicator android:id="@id/audio_zoom_indicator_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ai_audio_new_audio_zoom_indicator_margintop" />
+</LinearLayout>

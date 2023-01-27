@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">فوکس کیا گیا۔ %d چہرے ملے</item>
+        <item quantity="one">فوکس کیا گیا۔ %d چہرہ ملا</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">برسٹ شاٹ میں %d فوٹوز</item>
+        <item quantity="one">برسٹ شاٹ میں %d فوٹو</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">وقفہ: %d سیکنڈز</item>
+        <item quantity="one">وقفہ: %d سیکنڈ</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">دورانیہ: %d سیکنڈ</item>
+        <item quantity="one">دورانیہ: %d سیکنڈ</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">آپ ایک بار میں %d کلون تک بنا سکتے ہیں۔</item>
+        <item quantity="one">آپ ایک بار میں %d کلون تک بنا سکتے ہیں۔</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d منٹ</item>
+        <item quantity="one">%1$d منٹ</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">‎%1$d سیکنڈ</item>
+        <item quantity="one">‎%1$d سیکنڈ</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$d ڈرافٹس حذف کریں؟</item>
+        <item quantity="one">%1$d ڈرافٹ حذف کریں؟</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s منٹ</item>
+        <item quantity="one">%1$s منٹ</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">%d سیکنڈز ریکارڈ کریں</item>
+        <item quantity="one">%d سیکنڈ ریکارڈ کریں</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">آپ وقت منجمد ویڈیوز کو صرف %d موضوعات کے ساتھ شوٹ کر سکتے ہیں۔</item>
+        <item quantity="one">آپ وقت منجمد ویڈیوز کو صرف %d موضوع کے ساتھ شوٹ کر سکتے ہیں۔</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s فوٹوز</item>
+        <item quantity="one">%1$s فوٹو</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">برسٹ شاٹ پورا ہوا, %1$s تصاویر لی گئیں</item>
+        <item quantity="one">برسٹ شاٹ پورا ہوا, %1$s تصویر لی گئی</item>
+    </plurals>
+</resources>

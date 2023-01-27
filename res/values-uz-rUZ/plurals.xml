@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Fokus qilindi. %d ta yuz aniqlandi</item>
+        <item quantity="one">Fokus qilindi. %d ta yuz aniqlandi</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">Katta hajmdagi rasmda %d ta rasm</item>
+        <item quantity="one">Katta hajmdagi rasmda %d ta rasm</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d soniya</item>
+        <item quantity="one">Interval: %d soniya</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Davomiylik: %d soniya</item>
+        <item quantity="one">Davomiylik: %d soniya</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Bir vaqtning o‘zida %d ta klonni yaratishingiz mumkin.</item>
+        <item quantity="one">Bir vaqtning o‘zida %d ta klonni yaratishingiz mumkin.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d daq</item>
+        <item quantity="one">%1$d daq</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d son</item>
+        <item quantity="one">%1$d son</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$d ta qarolama o‘chirilsinmi?</item>
+        <item quantity="one">%1$d ta qarolama o‘chirilsinmi?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s daq</item>
+        <item quantity="one">%1$s daq</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">%d soniya yozish</item>
+        <item quantity="one">%d soniya yozish</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Faqat %d ta odamni videolarini muzlatishingiz mumkin.</item>
+        <item quantity="one">Faqat %d ta odamni videolarini muzlatishingiz mumkin.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s ta rasm</item>
+        <item quantity="one">%1$s ta rasm</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Seriya rasmi tayyor, %1$s ta rasm olindi</item>
+        <item quantity="one">Seriya rasmi tayyor, %1$s ta rasm olindi</item>
+    </plurals>
+</resources>

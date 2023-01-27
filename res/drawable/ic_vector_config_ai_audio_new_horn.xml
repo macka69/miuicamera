@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/ai_audio_new_indicator_horn_height" android:width="@dimen/ai_audio_new_indicator_horn_width" android:viewportWidth="15.0" android:viewportHeight="20.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffce16" android:pathData="M1.3729,4.6282L6.9632,4.6282L6.9632,4.6282L13.4322,0.6279C13.6201,0.5117 13.8666,0.5699 13.9828,0.7578C14.0219,0.821 14.0426,0.8938 14.0426,0.9681L14.0426,19.1796C14.0426,19.4005 13.8635,19.5796 13.6426,19.5796C13.5683,19.5796 13.4954,19.5589 13.4322,19.5198L6.9632,15.5196L6.9632,15.5196L1.3729,15.5196C1.152,15.5196 0.9729,15.3405 0.9729,15.1196L0.9729,5.0282C0.9729,4.8073 1.152,4.6282 1.3729,4.6282Z" />
+</vector>

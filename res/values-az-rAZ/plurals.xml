@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Fokuslandı. %d üz aşkarlandı</item>
+        <item quantity="one">Fokuslandı. %d üz aşkarlandı</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">ardıcıl çəkilişdə %d şəkil</item>
+        <item quantity="one">ardıcıl çəkilişdə %d şəkil</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">İnterval: %d saniyə</item>
+        <item quantity="one">İnterval: %d saniyə</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Müddət: %d saniyə</item>
+        <item quantity="one">Müddət: %d saniyə</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Bir dəfədə %d klona qədər yarada bilərsiniz.</item>
+        <item quantity="one">Bir dəfədə %d klona qədər yarada bilərsiniz.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d dəq</item>
+        <item quantity="one">%1$d dəq</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d san</item>
+        <item quantity="one">%1$d san</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">%1$d qaralama silinsin?</item>
+        <item quantity="one">%1$d qaralama silinsin?</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s dəq</item>
+        <item quantity="one">%1$s dəq</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">%dsaniyə yaz</item>
+        <item quantity="one">%dsaniyə yaz</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Vaxt dondurma videolarını yalnız %d mövzu ilə çəkə bilərsiniz.</item>
+        <item quantity="one">Zaman dondurma videolarını yalnız%dmövzu ilə çəkə bilərsiniz</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s şəkil</item>
+        <item quantity="one">%1$s şəkil</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Ardıcıl çəkiliş hazırdır,%1$s şəkil çəkildi</item>
+        <item quantity="one">Ardıcıl çəkiliş hazırdır,%1$s şəkil çəkildi</item>
+    </plurals>
+</resources>
